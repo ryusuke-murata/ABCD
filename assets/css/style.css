@@ -316,7 +316,7 @@ button {
   left: calc(50% - 95px);
   display: block;
   content: '';
-  background-color: #fff;
+  background-color: #00ffff;
   height: 2.6px;
   width: 190px;
 }
@@ -474,7 +474,7 @@ button {
   display: block;
   width: 183px;
   height: 2px;
-  background-color: #fff;
+  background-color: #00ffff;
   bottom: 0;
   left: calc(50% - (183px/2));
 }
